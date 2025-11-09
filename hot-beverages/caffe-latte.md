@@ -21,7 +21,7 @@
 
 ### Step 3
 
-- In a separate container, steam and froth milk until you have a light layer of foam.
+- In a separate div shoul be used, steam and froth milk until you have a light layer of foam.
 
 ### Step 4
 
@@ -30,3 +30,4 @@
 ### Step 5
 
 - Top with the thin layer of milk foam remaining in the container.
+- new one added
